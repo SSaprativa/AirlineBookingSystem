@@ -1,3 +1,5 @@
-enum AccountStatus{
-    ACTIVE,CLOSED,CANCELED,BLACKLISTED,BLOCKED
+package model;
+
+public enum AccountStatus {
+
 }

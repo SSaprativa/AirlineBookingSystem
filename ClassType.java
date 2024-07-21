@@ -1,3 +1,5 @@
-enum ClassType{
-    FirstClass,BusinessClass,EconomyClass
+package model;
+
+public enum ClassType {
+
 }

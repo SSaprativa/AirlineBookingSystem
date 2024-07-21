@@ -1,3 +1,5 @@
-enum SeatCategory{
-    REGULAR,ACCESSIBLE,EMERGENCY_EXIT
+package model;
+
+public enum SeatCategory {
+
 }
